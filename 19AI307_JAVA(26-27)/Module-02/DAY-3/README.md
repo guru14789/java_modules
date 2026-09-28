@@ -26,13 +26,7 @@ To write a Java program that defines a class Person with private instance variab
 
 
 ## PROGRAM:
- ```
-/*
-Program to implement a Access Specifiers using Java
-Developed by: HEMA LOKITHA P
-RegisterNumber:  212223110014
-*/
-```
+
 
 ## SOURCE CODE:
 ```java
